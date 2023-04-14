@@ -1,1 +1,139 @@
 /* JESUS CAMACHO */
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;200&display=swap');
+
+:root {
+  --primaryColor: #73e013;
+  --backgroundColor: #05292e;
+  --cardColor: #041518;
+  --textColor: white;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--backgroundColor);
+  color: var(--textColor);
+  font-family: 'Kanit', sans-serif;
+}
+
+
+
+.img__header {
+  max-width: 100%;
+  height: auto;
+}
+
+.info {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.location {
+  border-radius: 0.4rem;
+  background-color: var(--cardColor);
+  width: 300px;
+  padding: 1rem;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.26);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.26);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.26);
+}
+
+.location__name{
+  color: var(--primaryColor);
+}
+
+.location__info{
+  list-style: none;
+}
+
+.residents__cards {
+  padding: 2rem;
+  max-width: 1400px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  margin: 0 auto;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.resident__card{
+  background-color: var(--cardColor);
+  border-radius: 1rem;
+}
+
+.resident__header{
+  position: relative;
+}
+
+.resident__img{
+  width: 100%;
+  border-radius: 1rem 1rem 0 0 ;
+}
+
+.status{
+  width: 100px;
+  height: 30px;
+  border-radius: 0 1rem 1rem 0;
+  background-color: var(--cardColor);
+  position: absolute;
+  top: 1.8rem;
+  left: 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+}
+
+
+.circle {
+  height: 15px;
+  width: 15px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.Alive{
+  background-color: #1da830;
+}
+
+.Dead{
+  background-color: #a81d1d;
+}
+
+.unknown{
+  background-color: #ff8800;
+}
+
+.resident__section{
+  padding: 1rem;
+}
+
+hr.new{
+  border-top: 0.2px solid var(--primaryColor);
+}
+
+.resident_info{
+  list-style: none;
+}
+
+
+
+.blink_meDead {
+  animation: blinker 1.8s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
