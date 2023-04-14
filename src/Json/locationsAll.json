@@ -1,0 +1,508 @@
+{
+    "results": [{
+            "value": 1,
+            "label": "Earth (C-137)"
+        },
+        {
+            "value": 2,
+            "label": "Abadango"
+        },
+        {
+            "value": 3,
+            "label": "Citadel of Ricks"
+        },
+        {
+            "value": 4,
+            "label": "Worldenders lair"
+        },
+        {
+            "value": 5,
+            "label": "Anatomy Park"
+        },
+        {
+            "value": 6,
+            "label": "Interdimensional Cable"
+        },
+        {
+            "value": 7,
+            "label": "Immortality Field Resort"
+        },
+        {
+            "value": 8,
+            "label": "Post-Apocalyptic Earth"
+        },
+        {
+            "value": 9,
+            "label": "Purge Planet"
+        },
+        {
+            "value": 10,
+            "label": "Venzenulon 7"
+        },
+        {
+            "value": 11,
+            "label": "Bepis 9"
+        },
+        {
+            "value": 12,
+            "label": "Cronenberg Earth"
+        },
+        {
+            "value": 13,
+            "label": "Nuptia 4"
+        },
+        {
+            "value": 14,
+            "label": "Giants Town"
+        },
+        {
+            "value": 15,
+            "label": "Bird World"
+        },
+        {
+            "value": 16,
+            "label": "St. Gloopy Noops Hospital"
+        },
+        {
+            "value": 17,
+            "label": "Earth (5-126)"
+        },
+        {
+            "value": 18,
+            "label": "Mr. Goldenfolds dream"
+        },
+        {
+            "value": 19,
+            "label": "Gromflom Prime"
+        },
+        {
+            "value": 20,
+            "label": "Earth (Replacement Dimension)"
+        },
+
+        {
+            "value": 21,
+            "label": "Testicle Monster Dimension"
+        },
+        {
+            "value": 22,
+            "label": "Signus 5 Expanse"
+        },
+        {
+            "value": 23,
+            "label": "Earth (C-500A)"
+        },
+        {
+            "value": 24,
+            "label": "Rick's Battery Microverse"
+        },
+        {
+            "value": 25,
+            "label": "The Menagerie"
+        },
+        {
+            "value": 26,
+            "label": "Earth (K-83)"
+        },
+        {
+            "value": 27,
+            "label": "Hideout Planet"
+        },
+        {
+            "value": 28,
+            "label": "Unity's Planet"
+        },
+        {
+            "value": 29,
+            "label": "Dorian 5"
+        },
+        {
+            "value": 30,
+            "label": "Earth (Unknown dimension)"
+        },
+        {
+            "value": 31,
+            "label": "Earth (J19ζ7)"
+        },
+        {
+            "value": 32,
+            "label": "Roy: A Life Well Lived"
+        },
+        {
+            "value": 33,
+            "label": "Eric Stoltz Mask Earth"
+        },
+        {
+            "value": 34,
+            "label": "Earth (Evil Rick's Target Dimension)"
+        },
+        {
+            "value": 35,
+            "label": "Planet Squanch"
+        },
+        {
+            "value": 36,
+            "label": "Glaagablaaga"
+        },
+        {
+            "value": 37,
+            "label": "Resort Planet"
+        },
+        {
+            "value": 38,
+            "label": "Interdimensional Customs"
+        },
+        {
+            "value": 39,
+            "label": "Galactic Federation Prison"
+        },
+        {
+            "value": 40,
+            "label": "Gazorpazorp"
+        },
+        {
+            "value": 41,
+            "label": "Hamster in Butt World"
+        },
+        {
+            "value": 42,
+            "label": "Earth (Giant Telepathic Spiders Dimension)"
+        },
+        {
+            "value": 43,
+            "label": "Alphabetrium"
+        },
+        {
+            "value": 44,
+            "label": "Jerryboree"
+        },
+        {
+            "value": 45,
+            "label": "Krootabulon"
+        },
+        {
+            "value": 46,
+            "label": "Zigerion's Base"
+        },
+        {
+            "value": 47,
+            "label": "Pluto"
+        },
+        {
+            "value": 48,
+            "label": "Fantasy World"
+        },
+        {
+            "value": 49,
+            "label": "Zeep Xanflorp's Miniverse"
+        },
+        {
+            "value": 50,
+            "label": "Kyle's Teenyverse"
+        },
+        {
+            "value": 51,
+            "label": "Larva Alien's Planet"
+        },
+        {
+            "value": 52,
+            "label": "Earth (K-22)"
+        },
+        {
+            "value": 53,
+            "label": "Mr. Meeseeks Box"
+        },
+        {
+            "value": 54,
+            "label": "Vindicator's Base"
+        },
+        {
+            "value": 55,
+            "label": "Pawn Shop Planet"
+        },
+        {
+            "value": 56,
+            "label": "Mega Gargantuan Kingdom"
+        },
+        {
+            "value": 57,
+            "label": "Gear World"
+        },
+        {
+            "value": 58,
+            "label": "Earth (D-99)"
+        },
+        {
+            "value": 59,
+            "label": "Earth (D716)"
+        },
+        {
+            "value": 60,
+            "label": "Earth (D716-B)"
+        },
+        {
+            "value": 61,
+            "label": "Earth (D716-C)"
+        },
+        {
+            "value": 62,
+            "label": "Earth (J-22)"
+        },
+        {
+            "value": 63,
+            "label": "Froopyland"
+        },
+        {
+            "value": 64,
+            "label": "Detoxifier"
+        },
+        {
+            "value": 65,
+            "label": "Trunk World"
+        },
+        {
+            "value": 66,
+            "label": "Plopstar"
+        },
+        {
+            "value": 67,
+            "label": "Blips and Chitz"
+        },
+        {
+            "value": 68,
+            "label": "Girvonesk"
+        },
+        {
+            "value": 69,
+            "label": "Earth (C-35)"
+        },
+        {
+            "value": 70,
+            "label": "Snuffles' Dream"
+        },
+        {
+            "value": 71,
+            "label": "Earth (Pizza Dimension)"
+        },
+        {
+            "value": 72,
+            "label": "Earth (Phone Dimension)"
+        },
+        {
+            "value": 73,
+            "label": "Greasy Grandma World"
+        },
+        {
+            "value": 74,
+            "label": "Earth (Chair Dimension)"
+        },
+        {
+            "value": 75,
+            "label": "Árboles Mentirosos"
+        },
+        {
+            "value": 76,
+            "label": "Alien Day Spa"
+        },
+        {
+            "value": 77,
+            "label": "Earth (Fascist Dimension)"
+        },
+        {
+            "value": 78,
+            "label": "Snake Planet"
+        },
+        {
+            "value": 79,
+            "label": "Forbodulon Prime"
+        },
+        {
+            "value": 80,
+            "label": "Earth (Fascist Shrimp Dimension)"
+        },
+        {
+            "value": 81,
+            "label": "Earth (Fascist Teddy Bear Dimension)"
+        },
+        {
+            "value": 82,
+            "label": "Earth (Wasp Dimension)"
+        },
+        {
+            "value": 83,
+            "label": "Monogatron Mothership"
+        },
+        {
+            "value": 84,
+            "label": "Gorgon Quadrant"
+        },
+        {
+            "value": 85,
+            "label": "Midland Quasar"
+        },
+        {
+            "value": 86,
+            "label": "Mount Space Everest"
+        },
+        {
+            "value": 87,
+            "label": "Globaflyn"
+        },
+        {
+            "value": 88,
+            "label": "Heist-Con"
+        },
+        {
+            "value": 89,
+            "label": "Heistotron Base"
+        },
+        {
+            "value": 90,
+            "label": "Mount Olympus"
+        },
+        {
+            "value": 91,
+            "label": "Plitzville Montana"
+        },
+        {
+            "value": 92,
+            "label": "Earth (Tusk Dimension)"
+        },
+        {
+            "value": 93,
+            "label": "Gramuflack"
+        },
+        {
+            "value": 94,
+            "label": "Draygon"
+        },
+        {
+            "value": 95,
+            "label": "New Improved Galactic Federation Quarters"
+        },
+        {
+            "value": 96,
+            "label": "Story Train"
+        },
+        {
+            "value": 97,
+            "label": "Non-Diegetic Alternative Reality"
+        },
+        {
+            "value": 98,
+            "label": "Tickets Please Guy Nightmare"
+        },
+        {
+            "value": 99,
+            "label": "Morty’s Story"
+        },
+        {
+            "value": 100,
+            "label": "Ricks’s Story"
+        },
+        {
+            "value": 101,
+            "label": "Glorzo Asteroid"
+        },
+        {
+            "value": 102,
+            "label": "Alien Acid Plant"
+        },
+        {
+            "value": 103,
+            "label": "Merged Universe"
+        },
+        {
+            "value": 104,
+            "label": "Near-Duplicate Reality"
+        },
+        {
+            "value": 105,
+            "label": "NX-5 Planet Remover"
+        },
+        {
+            "value": 106,
+            "label": "Gaia"
+        },
+        {
+            "value": 107,
+            "label": "Defiance's Ship"
+        },
+        {
+            "value": 108,
+            "label": "Defiance's Base"
+        },
+        {
+            "value": 109,
+            "label": "The Ocean"
+        },
+        {
+            "value": 110,
+            "label": "Narnia Dimension"
+        },
+        {
+            "value": 111,
+            "label": "Elemental Rings"
+        },
+        {
+            "value": 112,
+            "label": "Morglutz"
+        },
+        {
+            "value": 113,
+            "label": "Ferkus 9"
+        },
+        {
+            "value": 114,
+            "label": "Morty"
+        },
+        {
+            "value": 115,
+            "label": "Space"
+        },
+        {
+            "value": 116,
+            "label": "Hell"
+        },
+        {
+            "value": 117,
+            "label": "Z. Q. P. D."
+        },
+        {
+            "value": 118,
+            "label": "Space Tahoe"
+        },
+        {
+            "value": 119,
+            "label": "France"
+        },
+        {
+            "value": 120,
+            "label": "Birdperson's Consciousness"
+        },
+        {
+            "value": 121,
+            "label": "Rick's Consciousness"
+        },
+        {
+            "value": 122,
+            "label": "Avian Planet"
+        },
+        {
+            "value": 123,
+            "label": "Normal Size Bug Dimension"
+        },
+        {
+            "value": 124,
+            "label": "Slartivart"
+        },
+        {
+            "value": 125,
+            "label": "Rick and Two Crows Planet"
+        },
+        {
+            "value": 126,
+            "label": "Rick's Memories"
+        }
+    ]
+}
